@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pongGame", "pongGame\pongGame.csproj", "{ACAC2872-65C1-4C82-83E8-4832818B4930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAC2872-65C1-4C82-83E8-4832818B4930}.Debug|x86.ActiveCfg = Debug|x86
+		{ACAC2872-65C1-4C82-83E8-4832818B4930}.Debug|x86.Build.0 = Debug|x86
+		{ACAC2872-65C1-4C82-83E8-4832818B4930}.Release|x86.ActiveCfg = Release|x86
+		{ACAC2872-65C1-4C82-83E8-4832818B4930}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74746E6-4C4F-4A02-9F68-D509E3FF97FF}
+	EndGlobalSection
+EndGlobal
